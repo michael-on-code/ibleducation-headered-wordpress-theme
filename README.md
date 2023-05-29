@@ -2,7 +2,7 @@ IBL Education Headered Theme
 ========================
 
 WordPress theme that includes the header (in Desktop and Mobile) 
-of ibleducation.com[1]
+of [ibleducation.com][1]
 
 Requirements
 ------------
