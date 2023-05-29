@@ -1,0 +1,67 @@
+.w-dropdown-link.w--current{
+    color:#bbbbbc;
+}
+.w-dropdown-link.w--current:hover{
+    color:#FFFFFF;
+}
+.header-btn-link{
+    cursor:pointer;
+}
+body{
+    background-color: #ffffff !important;
+}
+
+/*
+@media screen and (min-width: 992px){
+    .nav_hidden{
+        margin-bottom: 30px;
+    }
+}*/
+
+@font-face {
+    font-family: 'Hkgrotesk';
+    src: url(./fonts/HKGrotesk-Regular.otf) format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: auto
+}
+
+@font-face {
+    font-family: 'Hkgrotesk';
+    src: url(./fonts/HKGrotesk-Bold.otf) format('opentype'), url(//ibleducation.com/wp-content/themes/ibl-web-ibleducation-theme/css/../fonts/HKGrotesk-Bold.otf) format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: auto
+}
+
+@font-face {
+    font-family: 'Hkgrotesk';
+    src: url(./fonts/HKGrotesk-Medium.otf) format('opentype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: auto
+}
+
+@font-face {
+    font-family: 'Hkgrotesk';
+    src: url(./fonts/HKGrotesk-Light.otf) format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: auto
+}
+
+@font-face {
+    font-family: 'Hkgrotesk';
+    src: url(./fonts/HKGrotesk-Black.otf) format('opentype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: auto
+}
+
+@font-face {
+    font-family: 'Hkgrotesk';
+    src: url(./fonts/HKGrotesk-SemiBold.otf) format('opentype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: auto
+}

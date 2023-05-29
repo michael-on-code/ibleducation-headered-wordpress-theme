@@ -1,0 +1,17 @@
+.ibleducation-setting-page-container .form-fields input,
+.ibleducation-setting-page-container .form-fields textarea,
+.ibleducation-setting-page-container .form-fields select
+{
+    width: 400px;
+}
+.ibleducation-media-gallery-preview-container{
+    width:200px;
+}
+.ibleducation-media-gallery-preview-container img{
+    max-height: 150px;
+    max-width: 150px;
+    margin-bottom: 10px;
+}
+.ibleducation-media-gallery-preview-container img.is-hidden{
+    display:none
+}
